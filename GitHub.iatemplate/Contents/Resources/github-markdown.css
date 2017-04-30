@@ -700,8 +700,9 @@
 }
 
 .markdown-body .task-list-item input {
-  margin: 0 0.2em 0.25em -1.6em;
+  margin: 0.35em 0.2em 0.25em -1.6em;
   vertical-align: middle;
+  float: left;
 }
 
 .markdown-body .header-search-input::-ms-clear {
